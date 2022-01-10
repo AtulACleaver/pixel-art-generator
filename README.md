@@ -8,5 +8,5 @@ Python project to help you convert any image into a pixel art.
 
 And you are good to make the code easily work for you.
 
-### Preview
+### 📄 Preview
 ![panda](https://i.ibb.co/GxknKKp/Before-and-After.png)
